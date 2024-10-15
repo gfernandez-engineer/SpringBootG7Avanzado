@@ -1,2 +1,1 @@
-CrudRepository
-JpaRepository
+# SpringBootG7Avanzado
